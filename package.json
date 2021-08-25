@@ -1,0 +1,34 @@
+{
+  "name": "tokyo-m",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "minista",
+    "build": "minista build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/picturefill": "^3.0.1",
+    "@types/react": "^17.0.19",
+    "@types/react-dom": "^17.0.9",
+    "autoprefixer": "^10.3.2",
+    "babel-plugin-module-resolver": "^4.1.0",
+    "copy-webpack-plugin": "^9.0.1",
+    "file-loader": "^6.2.0",
+    "imagemin-webp-webpack-plugin": "^3.3.6",
+    "minista": "^0.9.6",
+    "object-fit-images": "^3.2.4",
+    "picturefill": "^3.0.3",
+    "postcss-object-fit-images": "^1.1.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "sass": "^1.38.1",
+    "sass-loader": "^12.1.0",
+    "ts-loader": "^9.2.5",
+    "typescript": "^4.3.5"
+  },
+  "devDependencies": {}
+}
